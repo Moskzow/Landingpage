@@ -5,7 +5,9 @@ function Navbar() {
 		<div>
 			<nav className="navbar navbar-expand-lg navbar-dark bg-dark ">
 				<div className="container-fluid">
-					<a className="navbar-brand" href="https://www.rtve.es/alacarta/videos/documentales-culturales/documentales-culturales-historia-pizza-arte-ciencia-pizza/3520771/">
+					<a
+						className="navbar-brand"
+						href="https://www.rtve.es/alacarta/videos/documentales-culturales/documentales-culturales-historia-pizza-arte-ciencia-pizza/3520771/">
 						PizzaDream
 					</a>
 
@@ -19,9 +21,7 @@ function Navbar() {
 						aria-label="Toggle navigation">
 						<span className="navbar-toggler-icon"></span>
 					</button>
-					<div
-						className="collapse navbar-collapse"
-						id="navbarText">
+					<div className="collapse navbar-collapse" id="navbarText">
 						<ul className="navbar-nav ml-auto">
 							<li className="nav-item">
 								<a
@@ -41,7 +41,7 @@ function Navbar() {
 									Para Llevar
 								</a>
 							</li>
-                            <li className="nav-item">
+							<li className="nav-item">
 								<a className="nav-link" href="#">
 									Contacto
 								</a>

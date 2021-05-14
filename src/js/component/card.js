@@ -7,9 +7,7 @@ const Card = props => {
 				<div className="card-body">
 					<img src={props.src} className="img-fluid"></img>
 					<h4 className="card-title">{props.title}</h4>
-					<p className="card-text">
-						{props.ingredients}
-					</p>
+					<p className="card-text">{props.ingredients}</p>
 				</div>
 				<div className="card-footer text-center">
 					<a href="#" className="btn btn-primary">
