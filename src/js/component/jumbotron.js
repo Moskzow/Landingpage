@@ -1,6 +1,6 @@
 import React from "react";
 
-function Jumbotron() {
+export function Jumbotron() {
 	return (
 		<header className="jumbotron my-4">
 			<h1 className="display-3">Las pizzas dan super poderes</h1>
@@ -17,4 +17,4 @@ function Jumbotron() {
 	);
 }
 
-export default Jumbotron;
+// export default Jumbotron;

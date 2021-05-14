@@ -1,13 +1,13 @@
 import React from "react";
-import Card from "./card";
-import Jumbotron from "./jumbotron";
-import Navbar from "./navbar";
-import Footer from "./footer";
+import { Card } from "./card";
+import { Jumbotron } from "./jumbotron";
+import { Navbar } from "./navbar";
+import { Footer } from "./footer";
 
 export function Home() {
 	return (
-        <Navbar />
 		<div className="container-fluid">
+			<Navbar />
 			<Jumbotron />
 			<div className="row">
 				<Card
