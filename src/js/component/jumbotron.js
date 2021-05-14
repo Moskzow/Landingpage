@@ -16,5 +16,3 @@ export function Jumbotron() {
 		</header>
 	);
 }
-
-// export default Jumbotron;
