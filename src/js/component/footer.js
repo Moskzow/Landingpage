@@ -6,8 +6,8 @@ export function Footer() {
 			<footer className="py-5 bg-dark">
 				<div className="container-fluid">
 					<p className="m-0 text-center text-white">
-						Cuida tu salud, aliméntate sanamente. <br>
-                        Copyright &copy; 🔥PizzaDream❤️ 2021 </br>
+						Cuida tu salud, aliméntate sanamente. Copyright &copy;
+						🔥PizzaDream❤️ 2021
 					</p>
 				</div>
 			</footer>
