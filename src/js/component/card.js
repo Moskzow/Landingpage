@@ -7,7 +7,7 @@ export const Card = props => {
 			<div className="card h-100">
 				<div className="card-body">
 					<img src={props.src} className="img-fluid"></img>
-					<h4 className="card-title">{props.title}</h4>
+					<h4 className="card-title">🍕{props.title}</h4>
 					<span className="badge rounded-pill bg-warning text-dark">
 						€ {props.price}
 					</span>
@@ -15,7 +15,7 @@ export const Card = props => {
 				</div>
 				<div className="card-footer text-center">
 					<a href="#" className="btn btn-primary">
-						Pídela
+						Pídela🍕
 					</a>
 				</div>
 			</div>

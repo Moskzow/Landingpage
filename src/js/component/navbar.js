@@ -8,7 +8,7 @@ export function Navbar() {
 					<a
 						className="navbar-brand"
 						href="https://www.rtve.es/alacarta/videos/documentales-culturales/documentales-culturales-historia-pizza-arte-ciencia-pizza/3520771/">
-						PizzaDream
+						🍕PizzaDream🍕
 					</a>
 
 					<button
@@ -28,22 +28,22 @@ export function Navbar() {
 									className="nav-link active"
 									aria-current="page"
 									href="#">
-									Menú
+									🍕Menú
 								</a>
 							</li>
 							<li className="nav-item">
 								<a className="nav-link" href="#">
-									Bebidas
+									🥤Bebidas
 								</a>
 							</li>
 							<li className="nav-item">
 								<a className="nav-link" href="#">
-									Para Llevar
+									🏡Para Llevar
 								</a>
 							</li>
 							<li className="nav-item">
 								<a className="nav-link" href="#">
-									Contacto
+									☎️Contacto
 								</a>
 							</li>
 						</ul>
